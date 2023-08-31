@@ -10,7 +10,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('.//img/imagem.b.jpg') no-repeat; 
+    background: url('./img/imagem.b.jpg') no-repeat; 
     background-position:center;
     background-size: cover;
    
@@ -18,7 +18,7 @@ body{
 .wrapper{
     width: 420px;
     background: transparent;
-    background: url('imagems/imagem2.jpg') no-repeat;
+    background: url('./img/imagem2.jpg') no-repeat;
     background-position:center;
     background-size: cover;
     border: 1px solid transparent;
